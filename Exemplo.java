@@ -9,5 +9,9 @@ public class Exemplo{
         pf.setCpf("12345678912");
         
         System.out.println(pes.getNome());
+
+        ExemploFor.execute();
+        ExemploWhile.execute();
+        ExemploCondicional.execute();
     }
 }
